@@ -5,7 +5,7 @@ module.exports.config = {
   credits: "SHAHADAT SAHU", //don't change credit✔️
   description: "couple banner",
   commandCategory: "banner",
-  usages: "[@mention | reply]",
+  usages: "[@mention | replyদিমুনা ভাগ]",
   cooldowns: 5,
   dependencies: {
     "axios": "",
